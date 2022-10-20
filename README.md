@@ -1,4 +1,4 @@
-<img align="right" alt="matrix" width="400" src="https://i.pinimg.com/originals/9b/9c/27/9b9c275d4d4c2e6b59555a673a519893.gif">
+
 
 <h1 align="center">Hi 👋, I'm Retro</h1>
 <h3 align="center">I have experience with Frontend Web Development, Cybersecurity and Linux.</h3>
