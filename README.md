@@ -1,4 +1,4 @@
-
+![logo](https://github.com/retr080s/retr080s/blob/main/banner2.gif)
 
 <h1 align="center">Hi 👋, I'm Retro</h1>
 <h3 align="center">I have experience with Frontend Web Development, Cybersecurity and Linux.</h3>
