@@ -10,3 +10,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/retr080s.png" alt="TryHackMe">
 <h3>HackTheBox</h3>
 <img src="http://www.hackthebox.eu/badge/image/434038" alt="Hack The Box"> 
+<h3>Stack Overflow</h3>
+<a href="https://stackoverflow.com/users/16051942/retr080s"><img src="https://stackoverflow.com/users/flair/16051942.png?theme=dark" width="208" height="58" alt="profile for retr080s at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for retr080s at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
