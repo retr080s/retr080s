@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Retro</h1>
-
 <h3 align="left">Languages and tools that i have experience with:</h3>
 <p align="left"> 
 
